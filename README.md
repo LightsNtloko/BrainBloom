@@ -1,4 +1,4 @@
-# Brain Bloom í¼±  
+# Brain Bloom ï¿½ï¿½ï¿½  
 **Empowering Programming Skills Through Engaging Learning**  
 
 Brain Bloom is an interactive platform designed to help users test and enhance their programming knowledge. With quizzes, tutorials, and personalized learning paths, Brain Bloom bridges the gap between learning and real-world application.  
@@ -22,3 +22,8 @@ Brain Bloom is an interactive platform designed to help users test and enhance t
 1. **Front-End**: Handles the user interface and provides seamless navigation.  
 2. **Back-End**: Manages application logic, user authentication, and security.  
 3. **Database**: Stores user data, quiz results, and progress tracking efficiently.
+
+## Instructions to open the app:
+1. Open the solution file (`BrainBloom.sln`) in Visual Studio.
+2. Build the project to restore dependencies and compile all files.
+3. Run the application to access the various pages listed above.
