@@ -26,7 +26,8 @@ Brain Bloom is an interactive platform designed to help users test and enhance t
 ## Instructions to open the app:
 1. Open the solution file (`BrainBloom.sln`) in Visual Studio.
 2. Build the project to restore dependencies and compile all files.
-![Etinty Relationship Diagram (ERD)](https://github.com/user-attachments/assets/bcfcec8b-0f30-4afe-826e-63f777330fa3)
-
-
 3. Run the application to access the various pages listed above.
+
+## The database (ERD) Entity Relationship Diagram
+![Etinty Relationship Diagram (ERD)](https://github.com/user-attachments/assets/45f24693-6094-4f3e-928d-b784194a9195)
+
