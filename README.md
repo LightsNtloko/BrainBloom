@@ -1,4 +1,5 @@
-# Brain Bloom ���  
+# BrainBloom  ![brain](https://github.com/user-attachments/assets/0c915a8a-2070-4b05-9dae-d5fd693aca2d)
+ 
 **Empowering Programming Skills Through Engaging Learning**  
 
 Brain Bloom is an interactive platform designed to help users test and enhance their programming knowledge. With quizzes, tutorials, and personalized learning paths, Brain Bloom bridges the gap between learning and real-world application.  
